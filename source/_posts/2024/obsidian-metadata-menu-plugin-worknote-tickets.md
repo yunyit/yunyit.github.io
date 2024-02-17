@@ -4,7 +4,6 @@ date: '2024-02-17 19:59:08'
 updated: '2024-02-17 19:59:08'
 categories: 技术
 tags:
-  - Data
   - 工作笔记
   - Obsidian
   - metadata
