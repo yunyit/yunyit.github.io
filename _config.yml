@@ -56,7 +56,7 @@ titlecase: false
 external_link:
   enable: true
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: true
 relative_link: false
 future: true
