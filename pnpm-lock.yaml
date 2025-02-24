@@ -20,7 +20,7 @@ importers:
     dependencies:
       '@adobe/css-tools':
         specifier: github:adobe/css-tools
-        version: https://codeload.github.com/adobe/css-tools/tar.gz/d7452810f05573b1ec54816833b83a5030f3af7d
+        version: https://codeload.github.com/adobe/css-tools/tar.gz/11aa901eeb2a5acb7bc379718aaa5afbff75d3b5
       '@tootallnate/once':
         specifier: github:tootallnate/once
         version: https://codeload.github.com/tootallnate/once/tar.gz/2bc2e134b7728a6b37c6838a3b5d5c290e60a539
@@ -265,8 +265,8 @@ importers:
         specifier: ^3.2.2
         version: 3.2.2
       mdn-data:
-        specifier: ^2.13.0
-        version: 2.13.0
+        specifier: ^2.16.0
+        version: 2.16.0
       memfs:
         specifier: ^4.15.0
         version: 4.15.0
@@ -430,9 +430,9 @@ packages:
   '@adobe/css-tools@4.3.3':
     resolution: {integrity: sha512-rE0Pygv0sEZ4vBWHlAgJLGDU7Pm8xoO6p3wsEceb7GYAjScrOHpEo8KK/eVkAcnSM+slAEtXjA2JpdjLp4fJQQ==}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/d7452810f05573b1ec54816833b83a5030f3af7d':
-    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/d7452810f05573b1ec54816833b83a5030f3af7d}
-    version: 4.4.1
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/11aa901eeb2a5acb7bc379718aaa5afbff75d3b5':
+    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/11aa901eeb2a5acb7bc379718aaa5afbff75d3b5}
+    version: 4.4.2
 
   '@asamuzakjp/dom-selector@2.0.2':
     resolution: {integrity: sha512-x1KXOatwofR6ZAYzXRBL5wrdV0vwNxlTCK9NCuLqAzQYARqGcvFwiJA6A1ERuh+dgeA4Dxm3JBYictIes+SqUQ==}
@@ -515,6 +515,7 @@ packages:
   '@xmldom/xmldom@0.9.0-beta.8':
     resolution: {integrity: sha512-Q5bFbYxRJKTYP7S1a0HIlumTmJRHHMGrNvBp8F1mUEyyGTeCs0g8+FKAaA6tU+YFsZgHKA0eRKzZhYdhpgAHAw==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   a-sync-waterfall@1.0.1:
     resolution: {integrity: sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA==}
@@ -1914,6 +1915,7 @@ packages:
 
   lodash.isequal@4.5.0:
     resolution: {integrity: sha512-pDo3lu8Jhfjqls6GkMgpahsF9kCyayhgykjyLMNFTKWrpVdAQtYyB4muAMWozBB4ig/dtWAmsMxLEI8wuz+DYQ==}
+    deprecated: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
 
   lodash.toarray@4.4.0:
     resolution: {integrity: sha512-QyffEA3i5dma5q2490+SgCvDN0pXLmRGSyAANuVi0HQ01Pkfr9fuoKQW8wm1wGBnJITs/mS7wQvS6VshUEBFCw==}
@@ -1989,8 +1991,8 @@ packages:
   mdn-data@2.0.30:
     resolution: {integrity: sha512-GaqWWShW4kv/G9IEucWScBx9G1/vsFZZJUO+tD26M8J8z3Kw5RDQjaoZe03YAClgeS/SWPOcb4nkFBTEi5DUEA==}
 
-  mdn-data@2.13.0:
-    resolution: {integrity: sha512-OmD1FDyP706JqPqtLqgev/QCK0qudBdUuKKag6InQ/elEw3Cm2AhXYktcSggdc/vWniYqIsofkcteMEOioW5vQ==}
+  mdn-data@2.16.0:
+    resolution: {integrity: sha512-FYRGKJUm9JD7JMUXwIi0dPkIozBqiSlz7Cx458FpEhTT3rQieI4sPL1LhY80FS3MIC6AJ/FWNJ2039GnIBJySg==}
 
   mdurl@1.0.1:
     resolution: {integrity: sha512-/sKlQJCBYVY9Ers9hqzKou4H6V5UWc/M59TH2dvkt+84itfnq7uFOMLpOiOS4ujvHP4etln18fmIxA5R5fll0g==}
@@ -3093,7 +3095,7 @@ snapshots:
 
   '@adobe/css-tools@4.3.3': {}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/d7452810f05573b1ec54816833b83a5030f3af7d': {}
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/11aa901eeb2a5acb7bc379718aaa5afbff75d3b5': {}
 
   '@asamuzakjp/dom-selector@2.0.2':
     dependencies:
@@ -4856,7 +4858,7 @@ snapshots:
 
   mdn-data@2.0.30: {}
 
-  mdn-data@2.13.0: {}
+  mdn-data@2.16.0: {}
 
   mdurl@1.0.1: {}
 
