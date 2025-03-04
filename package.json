@@ -44,7 +44,7 @@
     "change-case": "^5.4.4",
     "chokidar": "^3.6.0",
     "cliui": "^8.0.1",
-    "color-convert": "^2.0.1",
+    "color-convert": "^3.0.1",
     "color-name": "^2.0.0",
     "combined-stream": "^1.0.8",
     "command-exists": "^1.2.9",
