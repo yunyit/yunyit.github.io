@@ -20,7 +20,7 @@ importers:
     dependencies:
       '@adobe/css-tools':
         specifier: github:adobe/css-tools
-        version: https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d
+        version: https://codeload.github.com/adobe/css-tools/tar.gz/f1b58540b2598b2f5e830890b325cab38b90692e
       '@tootallnate/once':
         specifier: github:tootallnate/once
         version: https://codeload.github.com/tootallnate/once/tar.gz/2bc2e134b7728a6b37c6838a3b5d5c290e60a539
@@ -337,8 +337,8 @@ importers:
         specifier: ^1.2.1
         version: 1.2.1
       speech-rule-engine:
-        specifier: 4.1.0-beta.10
-        version: 4.1.0-beta.10
+        specifier: 4.1.2
+        version: 4.1.2
       streamx:
         specifier: ^2.22.0
         version: 2.22.0
@@ -430,8 +430,8 @@ packages:
   '@adobe/css-tools@4.3.3':
     resolution: {integrity: sha512-rE0Pygv0sEZ4vBWHlAgJLGDU7Pm8xoO6p3wsEceb7GYAjScrOHpEo8KK/eVkAcnSM+slAEtXjA2JpdjLp4fJQQ==}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d':
-    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d}
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/f1b58540b2598b2f5e830890b325cab38b90692e':
+    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/f1b58540b2598b2f5e830890b325cab38b90692e}
     version: 4.4.2
 
   '@asamuzakjp/css-color@2.8.3':
@@ -550,10 +550,9 @@ packages:
   '@types/trusted-types@2.0.7':
     resolution: {integrity: sha512-ScaPdn1dQczgbl0QFTeTOmVHFULt394XJgOQNoyVhZ6r2vLnMLJfBPd53SB52T/3G36VI1/g2MZaX0cwDuXsfw==}
 
-  '@xmldom/xmldom@0.9.0-beta.8':
-    resolution: {integrity: sha512-Q5bFbYxRJKTYP7S1a0HIlumTmJRHHMGrNvBp8F1mUEyyGTeCs0g8+FKAaA6tU+YFsZgHKA0eRKzZhYdhpgAHAw==}
-    engines: {node: '>=10.0.0'}
-    deprecated: this version has critical issues, please update to the latest version
+  '@xmldom/xmldom@0.9.8':
+    resolution: {integrity: sha512-p96FSY54r+WJ50FIOsCOjyj/wavs8921hG5+kVMmZgKcvIKxMXHTrjNJvRgWa/zuX3B6t2lijLNFaOyuxUH+2A==}
+    engines: {node: '>=14.6'}
 
   a-sync-waterfall@1.0.1:
     resolution: {integrity: sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA==}
@@ -927,12 +926,12 @@ packages:
   command-exists@1.2.9:
     resolution: {integrity: sha512-LTQ/SGc+s0Xc0Fu5WaKnR0YiygZkm9eKFvyS+fRsU7/ZWFF8ykFM6Pc9aCVf1+xasOOZpO3BAVgVrKvsqKHV7w==}
 
-  commander@11.1.0:
-    resolution: {integrity: sha512-yPVavfyCcRhmorC7rWlkHn15b4wDVgVmBA7kV4QVBsF7kv/9TKJAbAXVTxvTnwP8HHKjRCJDClKbciiYS7p0DQ==}
-    engines: {node: '>=16'}
-
   commander@12.1.0:
     resolution: {integrity: sha512-Vw8qHK3bZM9y/P10u3Vib8o/DdkvA2OtPtZvD871QKjy74Wj1WSKFILMPRPSdUSx5RFK1arlJzEtA4PkFgnbuA==}
+    engines: {node: '>=18'}
+
+  commander@13.1.0:
+    resolution: {integrity: sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw==}
     engines: {node: '>=18'}
 
   commander@2.20.3:
@@ -949,10 +948,6 @@ packages:
   commander@7.2.0:
     resolution: {integrity: sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==}
     engines: {node: '>= 10'}
-
-  commander@9.2.0:
-    resolution: {integrity: sha512-e2i4wANQiSXgnrBlIatyHtP1odfUp0BbV5Y5nEGbxtIrStkEOAAzCUirvLBNXHLr7kwLvJl6V+4V3XV9x7Wd9w==}
-    engines: {node: ^12.20.0 || >=14}
 
   compressible@2.0.18:
     resolution: {integrity: sha512-AF3r7P5dWxL8MxyITRMlORQNaOA2IkAFaTr4k7BUumjPtRpGDTZpl0Pb1XCO6JeDCBdp126Cgs9sMxqSjgYyRg==}
@@ -2716,12 +2711,8 @@ packages:
     resolution: {integrity: sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA==}
     engines: {node: '>= 8'}
 
-  speech-rule-engine@4.0.7:
-    resolution: {integrity: sha512-sJrL3/wHzNwJRLBdf6CjJWIlxC04iYKkyXvYSVsWVOiC2DSkHmxsqOhEeMsBA9XK+CHuNcsdkbFDnoUfAsmp9g==}
-    hasBin: true
-
-  speech-rule-engine@4.1.0-beta.10:
-    resolution: {integrity: sha512-SPqPF4YPdqvg0+VvQKpOi68SFFMCyvGI3zNfWPJx0faxh/eHjH3ATbRu4GjoWWnHGWKY8uSqXjz/1UnFVI6NmQ==}
+  speech-rule-engine@4.1.2:
+    resolution: {integrity: sha512-S6ji+flMEga+1QU79NDbwZ8Ivf0S/MpupQQiIC0rTpU/ZTKgcajijJJb1OcByBQDjrXCN1/DJtGz4ZJeBMPGJw==}
     hasBin: true
 
   sprintf-js@1.0.3:
@@ -3198,10 +3189,6 @@ packages:
   xmlchars@2.2.0:
     resolution: {integrity: sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==}
 
-  xmldom-sre@0.1.31:
-    resolution: {integrity: sha512-f9s+fUkX04BxQf+7mMWAp5zk61pciie+fFLC9hX9UVvCeJQfNHRHXpeo5MPcR0EUf57PYLdt+ZO4f3Ipk2oZUw==}
-    engines: {node: '>=0.1'}
-
   xmldom-sre@0.9.0-beta.7:
     resolution: {integrity: sha512-4xlknhWYLHPm06WjIhZDt8ys5aljgP5Pf7jygUF8pw+cgC4QBEQIUFBjHhHUbykaHHi+KfbdzO47Wv/k7A+5DQ==}
     engines: {node: '>=10.0.0'}
@@ -3237,7 +3224,7 @@ snapshots:
 
   '@adobe/css-tools@4.3.3': {}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d': {}
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/f1b58540b2598b2f5e830890b325cab38b90692e': {}
 
   '@asamuzakjp/css-color@2.8.3':
     dependencies:
@@ -3345,7 +3332,7 @@ snapshots:
   '@types/trusted-types@2.0.7':
     optional: true
 
-  '@xmldom/xmldom@0.9.0-beta.8': {}
+  '@xmldom/xmldom@0.9.8': {}
 
   a-sync-waterfall@1.0.1: {}
 
@@ -3726,9 +3713,9 @@ snapshots:
 
   command-exists@1.2.9: {}
 
-  commander@11.1.0: {}
-
   commander@12.1.0: {}
+
+  commander@13.1.0: {}
 
   commander@2.20.3: {}
 
@@ -3739,8 +3726,6 @@ snapshots:
   commander@5.1.0: {}
 
   commander@7.2.0: {}
-
-  commander@9.2.0: {}
 
   compressible@2.0.18:
     dependencies:
@@ -5079,7 +5064,7 @@ snapshots:
       esm: 3.2.25
       mhchemparser: 4.2.1
       mj-context-menu: 0.6.1
-      speech-rule-engine: 4.0.7
+      speech-rule-engine: 4.1.2
 
   mdn-data@2.0.14: {}
 
@@ -5747,16 +5732,10 @@ snapshots:
 
   source-map@0.7.4: {}
 
-  speech-rule-engine@4.0.7:
+  speech-rule-engine@4.1.2:
     dependencies:
-      commander: 9.2.0
-      wicked-good-xpath: 1.3.0
-      xmldom-sre: 0.1.31
-
-  speech-rule-engine@4.1.0-beta.10:
-    dependencies:
-      '@xmldom/xmldom': 0.9.0-beta.8
-      commander: 11.1.0
+      '@xmldom/xmldom': 0.9.8
+      commander: 13.1.0
       wicked-good-xpath: 1.3.0
 
   sprintf-js@1.0.3: {}
@@ -6229,8 +6208,6 @@ snapshots:
   xml-name-validator@5.0.0: {}
 
   xmlchars@2.2.0: {}
-
-  xmldom-sre@0.1.31: {}
 
   xmldom-sre@0.9.0-beta.7: {}
 
