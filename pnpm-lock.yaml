@@ -20,7 +20,7 @@ importers:
     dependencies:
       '@adobe/css-tools':
         specifier: github:adobe/css-tools
-        version: https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d
+        version: https://codeload.github.com/adobe/css-tools/tar.gz/559458ea4d53492473fcdafed426bc19e656cf2b
       '@tootallnate/once':
         specifier: github:tootallnate/once
         version: https://codeload.github.com/tootallnate/once/tar.gz/2bc2e134b7728a6b37c6838a3b5d5c290e60a539
@@ -103,8 +103,8 @@ importers:
         specifier: ^8.0.1
         version: 8.0.1
       color-convert:
-        specifier: ^2.0.1
-        version: 2.0.1
+        specifier: ^3.1.0
+        version: 3.1.0
       color-name:
         specifier: ^2.0.0
         version: 2.0.0
@@ -430,8 +430,8 @@ packages:
   '@adobe/css-tools@4.3.3':
     resolution: {integrity: sha512-rE0Pygv0sEZ4vBWHlAgJLGDU7Pm8xoO6p3wsEceb7GYAjScrOHpEo8KK/eVkAcnSM+slAEtXjA2JpdjLp4fJQQ==}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d':
-    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d}
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/559458ea4d53492473fcdafed426bc19e656cf2b':
+    resolution: {tarball: https://codeload.github.com/adobe/css-tools/tar.gz/559458ea4d53492473fcdafed426bc19e656cf2b}
     version: 4.4.2
 
   '@asamuzakjp/css-color@2.8.3':
@@ -912,6 +912,10 @@ packages:
   color-convert@2.0.1:
     resolution: {integrity: sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==}
     engines: {node: '>=7.0.0'}
+
+  color-convert@3.1.0:
+    resolution: {integrity: sha512-TVoqAq8ZDIpK5lsQY874DDnu65CSsc9vzq0wLpNQ6UMBq81GSZocVazPiBbYGzngzBOIRahpkTzCLVe2at4MfA==}
+    engines: {node: '>=14.6'}
 
   color-name@1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
@@ -2237,6 +2241,7 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
+    deprecated: Use your platform's native DOMException instead
 
   node-fetch@3.3.2:
     resolution: {integrity: sha512-dRB78srN/l6gqWulah9SrxeYnxeddIG30+GOqK/9OlLVyLg3HPnr6SqOWTWOXKRwC2eGYCkZ59NNuSgvSrpgOA==}
@@ -3237,7 +3242,7 @@ snapshots:
 
   '@adobe/css-tools@4.3.3': {}
 
-  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/487dedbd4302bedb0fce32e2387c8c27d3cc2e9d': {}
+  '@adobe/css-tools@https://codeload.github.com/adobe/css-tools/tar.gz/559458ea4d53492473fcdafed426bc19e656cf2b': {}
 
   '@asamuzakjp/css-color@2.8.3':
     dependencies:
@@ -3715,6 +3720,10 @@ snapshots:
   color-convert@2.0.1:
     dependencies:
       color-name: 1.1.4
+
+  color-convert@3.1.0:
+    dependencies:
+      color-name: 2.0.0
 
   color-name@1.1.4: {}
 
