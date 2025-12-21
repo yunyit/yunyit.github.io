@@ -191,7 +191,7 @@
 
   
   <url>
-    <loc>https://yunyitang.me/tag/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://yunyitang.me/tag/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,7 +205,7 @@
   </url>
   
   <url>
-    <loc>https://yunyitang.me/tag/%E7%94%B5%E5%BD%B1/</loc>
+    <loc>https://yunyitang.me/tag/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -227,13 +227,6 @@
   
   <url>
     <loc>https://yunyitang.me/tag/mysql/</loc>
-    <lastmod>2025-12-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yunyitang.me/tag/%E6%89%BE%E5%B7%A5/</loc>
     <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -282,14 +275,7 @@
   </url>
   
   <url>
-    <loc>https://yunyitang.me/tag/PaperMod/</loc>
-    <lastmod>2025-12-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yunyitang.me/tag/Hugo/</loc>
+    <loc>https://yunyitang.me/tag/%E6%89%BE%E5%B7%A5/</loc>
     <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +290,20 @@
   
   <url>
     <loc>https://yunyitang.me/tag/metadata/</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yunyitang.me/tag/PaperMod/</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yunyitang.me/tag/Hugo/</loc>
     <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
