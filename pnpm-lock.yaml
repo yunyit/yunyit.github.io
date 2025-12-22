@@ -67,8 +67,8 @@ importers:
         specifier: ^1.0.3
         version: 1.0.3
       binary-extensions:
-        specifier: ^2.3.0
-        version: 2.3.0
+        specifier: ^3.1.0
+        version: 3.1.0
       bluebird:
         specifier: ^3.7.2
         version: 3.7.2
@@ -861,6 +861,10 @@ packages:
   binary-extensions@2.3.0:
     resolution: {integrity: sha512-Ceh+7ox5qe7LJuLHoY0feh3pHuUDHAcRUeyL2VYghZwfpkNIy/+8Ocg0a3UuSoYzavmylwuLWQOf3hl0jjMMIw==}
     engines: {node: '>=8'}
+
+  binary-extensions@3.1.0:
+    resolution: {integrity: sha512-Jvvd9hy1w+xUad8+ckQsWA/V1AoyubOvqn0aygjMOVM4BfIaRav1NFS3LsTSDaV4n4FtcCtQXvzep1E6MboqwQ==}
+    engines: {node: '>=18.20'}
 
   bl@4.1.0:
     resolution: {integrity: sha512-1W07cM9gS6DcLperZfFSj+bWLtaPGSOHWhPiGzXmvVJbRLdG82sH/Kn8EtW1VqWVA54AKf2h5k5BbnIbwF3h6w==}
@@ -3717,6 +3721,8 @@ snapshots:
   bignumber.js@9.0.0: {}
 
   binary-extensions@2.3.0: {}
+
+  binary-extensions@3.1.0: {}
 
   bl@4.1.0:
     dependencies:
