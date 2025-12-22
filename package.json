@@ -54,7 +54,7 @@
     "css-what": "^6.2.2",
     "csso": "^5.0.5",
     "cssstyle": "^4.6.0",
-    "data-urls": "^5.0.0",
+    "data-urls": "^6.0.0",
     "docker": "^1.0.0",
     "end-of-stream": "^1.4.5",
     "esm": "^3.2.25",
