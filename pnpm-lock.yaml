@@ -422,8 +422,8 @@ importers:
         version: 1.22.22
     devDependencies:
       prettier:
-        specifier: 3.3.2
-        version: 3.3.2
+        specifier: 3.7.4
+        version: 3.7.4
 
 packages:
 
@@ -2513,8 +2513,8 @@ packages:
     resolution: {integrity: sha512-yioayjNbHn6z1/Bywyb2Y4s3yvDAeXGOyxqD+LnVOinq6Mdmd++SW2wUNVzavyyHxd6+DxzWGIuosg6P1Rj8uA==}
     engines: {node: '>=6.0.0'}
 
-  prettier@3.3.2:
-    resolution: {integrity: sha512-rAVeHYMcv8ATV5d508CFdn+8/pHPpXeIid1DdrPwXnaAdH7cqjVbpJaT5eq4yRAFU/lsbwYwSF/n5iNrdJHPQA==}
+  prettier@3.7.4:
+    resolution: {integrity: sha512-v6UNi1+3hSlVvv8fSaoUbggEM5VErKmmpGA7Pl3HF8V6uKY7rvClBOJlH6yNwQtfTueNkGVpOv/mtWL9L4bgRA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -5602,7 +5602,7 @@ snapshots:
       picocolors: 0.2.1
       source-map: 0.6.1
 
-  prettier@3.3.2: {}
+  prettier@3.7.4: {}
 
   pretty-hrtime@1.0.3: {}
 
