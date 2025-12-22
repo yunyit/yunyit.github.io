@@ -148,7 +148,7 @@
     "write-file-atomic": "^5.0.1",
     "xml-name-validator": "^5.0.0",
     "xmldom-sre": "0.9.0-beta.7",
-    "yargs": "^17.7.2",
+    "yargs": "^18.0.0",
     "yarn": "^1.22.22"
   },
   "devDependencies": {
