@@ -22,7 +22,7 @@ updated: '2024-01-24 23:31:49'
 本站的友链格式和 **Yunyi** 的友链信息如下所示，欢迎通过 **评论区** 交换友链！
 
 ```markdown
-- [Yunyi's Blog](https://www.yunyitang.me/zh/)
+- [Yunyi's Blog](https://www.yunyitang.me/)
   - 得闲饮茶～～～
 ```
 
@@ -97,9 +97,6 @@ _以下站点按照添加的时间顺序排列：_
 - [米米的博客](https://zhangshuqiao.org)
   - 米米的博客！！
 
-- [绒绒洛](https://qwq.dog)
-  - 俯いたまま大人になって
-
 - [芝士部落格](https://blog.youmuwhisper.space)
   - 有思想，也有忧伤和理想
 
@@ -127,9 +124,6 @@ _以下站点按照添加的时间顺序排列：_
 - [椒盐豆豉](https://blog.douchi.space/#gsc.tab=0)
   - 喜欢就买 不行就分 多喝热水 重启电脑
 
-- [Wsine's Blog](https://blog.wsine.top)
-  - Welcome to my blog! Here are something about life and productivity. Hope you enjoy~
-
 - [雅余](https://yayu.net/)
   - 茶余饭后，闲情雅致
 
@@ -153,11 +147,17 @@ _以下站点按照添加的时间顺序排列：_
 <details>
 <summary>可能已经迷失了的友站</summary>
 
-- [Barney’s Blog](https://hugo.bnblogs.cc/)
+- [Barney’s Blog](https://hugo.bnblogs.cc/) `T/O`
   - All the truth is simple
 
-- [L1nSn0w's Blog](https://blog.linsnow.cn)
+- [L1nSn0w's Blog](https://blog.linsnow.cn) `T/O`
   - 无限进步.✍️
+
+- [Wsine's Blog](https://blog.wsine.top) `405`
+  - Welcome to my blog! Here are something about life and productivity. Hope you enjoy~
+
+- [绒绒洛](https://qwq.dog) `522`
+  - 俯いたまま大人になって
 
 </details>
 
