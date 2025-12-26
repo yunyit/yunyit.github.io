@@ -49,17 +49,8 @@ _以下站点按照添加的时间顺序排列：_
   - 半吊子全栈开发者的日常
   - `本博客所用主题的开发者！`
 
-- [Barney’s Blog](https://hugo.bnblogs.cc/)
-  - All the truth is simple
-
-- [Amos's Blog](https://amoshk.top/)
-  - 无限进步.✍️
-
 - [Bing's Blog](https://imcbc.cn/)
   - 自由 分享 合作
-
-- [L1nSn0w's Blog](https://blog.linsnow.cn)
-  - 无限进步.✍️
 
 - [Cynosura](https://cynosura.one)
   - Trying to light up the dark.
@@ -143,6 +134,15 @@ _以下站点按照添加的时间顺序排列：_
 
 <details>
 <summary>可能已经迷失了的友站</summary>
+
+- [Barney’s Blog](https://hugo.bnblogs.cc/)
+  - All the truth is simple
+
+- [Amos's Blog](https://amoshk.top/)
+  - 无限进步.✍️
+
+- [L1nSn0w's Blog](https://blog.linsnow.cn)
+  - 无限进步.✍️
 
 </details>
 
