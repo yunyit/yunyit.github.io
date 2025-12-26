@@ -23,7 +23,7 @@ updated: '2024-01-24 23:31:49'
 
 ```markdown
 - [Yunyi's Blog](https://www.yunyitang.me/zh/)
-  - Little squirrel Hopping around
+  - 得闲饮茶～～～
 ```
 
 <details>
@@ -48,6 +48,9 @@ _以下站点按照添加的时间顺序排列：_
 - [PRIN BLOG](https://printempw.github.io)
   - 半吊子全栈开发者的日常
   - `本博客所用主题的开发者！`
+
+- [Amos](https://amooos.com/)
+  - 无限进步.✍️
 
 - [Bing's Blog](https://imcbc.cn/)
   - 自由 分享 合作
@@ -130,6 +133,12 @@ _以下站点按照添加的时间顺序排列：_
 - [Homology](https://www.giuem.com)
   - A frontend developer with limited DevOps and backend knowledge.
 
+- [逍遥乡 | Allen's World](https://blog.allenwu233.com/zh)
+  - 天地与我并生，而万物与我为一。
+
+- [liangbm3's blog](https://liangbm3.top/)
+  - 总有人间一两风，填我十万八千梦！
+
 ---
 
 <details>
@@ -137,9 +146,6 @@ _以下站点按照添加的时间顺序排列：_
 
 - [Barney’s Blog](https://hugo.bnblogs.cc/)
   - All the truth is simple
-
-- [Amos's Blog](https://amoshk.top/)
-  - 无限进步.✍️
 
 - [L1nSn0w's Blog](https://blog.linsnow.cn)
   - 无限进步.✍️
