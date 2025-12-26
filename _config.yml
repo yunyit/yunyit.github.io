@@ -61,7 +61,7 @@ post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter:
-updated_option: 'mtime'
+updated_option: mtime
 
 # Category & Tag
 default_category: uncategorized
@@ -141,7 +141,7 @@ theme_config:
       path: https://www.travellings.cn/go.html
     umami:
       name: 流量统计
-      path: https://analytics.yunyitang.me/share/FfIxx6mpOlXSB7Ri/YUNYI%20BLOG
+      path: https://analytics.yunyitang.me/share/z2EMDSYDInBRz3cx
 #    moe:
 #      name: 跃迁
 #      path: https://travel.moe/go.html
@@ -185,7 +185,7 @@ deploy:
   type: git
   # Legacy repo
   repo: git@github.com:yunyit/yunyit.github.io.git
-  branch: main
+  branch: source
   name: yunyi
   email: yunyi.tang.820@gmail.com
 
