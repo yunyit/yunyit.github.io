@@ -49,8 +49,8 @@ importers:
         specifier: ^3.2.6
         version: 3.2.6
       asynckit:
-        specifier: ^0.4.0
-        version: 0.4.0
+        specifier: ^0.5.0
+        version: 0.5.0
       b4a:
         specifier: ^1.7.3
         version: 1.7.3
@@ -762,6 +762,9 @@ packages:
 
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
+
+  asynckit@0.5.0:
+    resolution: {integrity: sha512-uVtNMW2mMSraLQ5kC/JJ9j1nPrd7c6zqMFTW57QJ5VibCJsU6ckcedOoNSoq7kQJ4WFgJIjFm0VF3hbHvh6/ww==}
 
   atob@2.1.2:
     resolution: {integrity: sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==}
@@ -3628,6 +3631,8 @@ snapshots:
   async@3.2.6: {}
 
   asynckit@0.4.0: {}
+
+  asynckit@0.5.0: {}
 
   atob@2.1.2: {}
 
