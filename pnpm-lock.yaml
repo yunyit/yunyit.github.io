@@ -223,8 +223,8 @@ importers:
         specifier: ^3.3.0
         version: 3.3.0
       html-encoding-sniffer:
-        specifier: ^4.0.0
-        version: 4.0.0
+        specifier: ^6.0.0
+        version: 6.0.0
       http-proxy-agent:
         specifier: ^7.0.2
         version: 7.0.2
@@ -471,6 +471,15 @@ packages:
   '@csstools/css-tokenizer@3.0.4':
     resolution: {integrity: sha512-Vd/9EVDiu6PPJt9yAh6roZP6El1xHrdvIVGjyBsHR0RYwNHgL7FJPyIIW4fANJNG6FtyZfvlRPpFI4ZM/lubvw==}
     engines: {node: '>=18'}
+
+  '@exodus/bytes@1.6.0':
+    resolution: {integrity: sha512-y32mI9627q5LR/L8fLc4YyDRJQOi+jK0D9okzLilAdiU3F9we3zC7Y7CFrR/8vAvUyv7FgBAYcNHtvbmhKCFcw==}
+    engines: {node: ^20.19.0 || ^22.12.0 || >=24.0.0}
+    peerDependencies:
+      '@exodus/crypto': ^1.0.0-rc.4
+    peerDependenciesMeta:
+      '@exodus/crypto':
+        optional: true
 
   '@inquirer/external-editor@1.0.3':
     resolution: {integrity: sha512-RWbSrDiYmO4LbejWY7ttpxczuwQyZLBUyygsA9Nsv95hpzUWwnNTVQmAq3xuh7vNwCp07UTmE5i11XAEExx4RA==}
@@ -1757,6 +1766,10 @@ packages:
   html-encoding-sniffer@4.0.0:
     resolution: {integrity: sha512-Y22oTqIU4uuPgEemfz7NDJz6OeKf12Lsu+QC+s3BVpda64lTiMYCyGwg5ki4vFxkMwQdeZDl2adZoqUgdFuTgQ==}
     engines: {node: '>=18'}
+
+  html-encoding-sniffer@6.0.0:
+    resolution: {integrity: sha512-CV9TW3Y3f8/wT0BRFc1/KAVQ3TUHiXmaAb6VW9vtiMFf7SLoMd1PdAc4W3KFOFETBJUb90KatHqlsZMWV+R9Gg==}
+    engines: {node: ^20.19.0 || ^22.12.0 || >=24.0.0}
 
   html-entities@1.4.0:
     resolution: {integrity: sha512-8nxjcBcd8wovbeKx7h3wTji4e6+rhaVuPNpMqwWgnHh+N9ToqsCs6XztWRBPQ+UtzsoMAdKZtUENoVzU/EMtZA==}
@@ -3363,6 +3376,8 @@ snapshots:
 
   '@csstools/css-tokenizer@3.0.4': {}
 
+  '@exodus/bytes@1.6.0': {}
+
   '@inquirer/external-editor@1.0.3':
     dependencies:
       chardet: 2.1.1
@@ -4768,6 +4783,12 @@ snapshots:
   html-encoding-sniffer@4.0.0:
     dependencies:
       whatwg-encoding: 3.1.1
+
+  html-encoding-sniffer@6.0.0:
+    dependencies:
+      '@exodus/bytes': 1.6.0
+    transitivePeerDependencies:
+      - '@exodus/crypto'
 
   html-entities@1.4.0: {}
 
