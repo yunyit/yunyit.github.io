@@ -289,8 +289,8 @@ importers:
         specifier: ^2.18.1
         version: 2.18.1
       node:
-        specifier: ^23.11.1
-        version: 23.11.1
+        specifier: ^24.12.0
+        version: 24.12.0
       node-localstorage:
         specifier: ^3.0.5
         version: 3.0.5
@@ -2352,8 +2352,8 @@ packages:
   node-tikzjax@1.0.3:
     resolution: {integrity: sha512-AfJpj8NPlefBth5bl8n/V82zOMJe+Y63M8uymZiq7g/Gnl9HIcid/65h4PolZA//6siq7iFhTW3OFB75vG4hYA==}
 
-  node@23.11.1:
-    resolution: {integrity: sha512-a32zQJCGYxsZ3fUcZkHA+Fqf3BUEWpSd0icHNwKQSkbfVwQNOsoZz5wOijthH+0PgoO0439e3F64bSMCwTp2IQ==}
+  node@24.12.0:
+    resolution: {integrity: sha512-LiJkH5haaqzS3csrpEhCxTa5/+v/wco0c1XOd/52Emho0AI3PNmcxPs1fqpH3BmtC2N3lt7gbJ7ncObjd9gYJg==}
     engines: {npm: '>=5.0.0'}
     hasBin: true
 
@@ -5431,7 +5431,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  node@23.11.1:
+  node@24.12.0:
     dependencies:
       node-bin-setup: 1.1.4
 
