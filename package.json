@@ -49,7 +49,7 @@
     "combined-stream": "^1.0.8",
     "command-exists": "^1.2.9",
     "commander": "^12.1.0",
-    "css-select": "^5.2.2",
+    "css-select": "^6.0.0",
     "css-tree": "^2.3.1",
     "css-what": "^6.2.2",
     "csso": "^5.0.5",
