@@ -1,7 +1,7 @@
 ---
 title: '为 Hexo 博客添加流量统计'
 date: '2024-02-01 20:58:32'
-updated: '2024-02-01 20:58:32'
+updated: '2025-12-26 13:42:32'
 categories: 技术
 tags:
   - 博客
@@ -55,7 +55,7 @@ tags:
 
 最后我选择了 [Vercel](https://umami.is/docs/running-on-vercel)，一是因为此前用 [twikoo](https://twikoo.js.org/backend.html#vercel-部署) 评论系统的时候，尝试过用 Vercel 部署，一回生二回熟；二是因为搭配的数据库可以使用 Vercel Postgres 数据库，方便。
 
-部署时，使用 [官方文档](https://umami.is/docs/running-on-vercel) 的 Vercel 按钮可以自动执行 1.-5.：
+部署时，使用 [官方文档](https://umami.is/docs/guides/running-on-vercel) 的 Vercel 按钮可以自动执行 1.-5.：
 
 1. 将 https://github.com/umami-software/umami 项目 fork 到自己的 GitHub 账户；
 2. 在 Vercel 创建或登陆账户；
