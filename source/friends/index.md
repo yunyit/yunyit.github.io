@@ -49,11 +49,17 @@ _以下站点按照添加的时间顺序排列：_
   - 半吊子全栈开发者的日常
   - `本博客所用主题的开发者！`
 
+- [Fengyun Hou](https://fengyun-hou.github.io)
+  - Cognitive Neuroscience of Language
+
 - [Amos](https://amooos.com/)
   - 无限进步.✍️
 
 - [Bing's Blog](https://imcbc.cn/)
   - 自由 分享 合作
+
+- [凡梦星尘](https://lisenhui.cn)
+  - 再平凡的人也有属于他的梦想 ✨
 
 - [Cynosura](https://cynosura.one)
   - Trying to light up the dark.
@@ -138,6 +144,9 @@ _以下站点按照添加的时间顺序排列：_
 
 - [liangbm3's blog](https://liangbm3.top/)
   - 总有人间一两风，填我十万八千梦！
+
+- [朽丘秋雨](https://koxiuqiu.cn)
+  - 和喜欢的人在夏日夜晚牵手慢步
 
 ---
 
