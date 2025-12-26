@@ -132,7 +132,7 @@
     "tar-fs": "^3.1.1",
     "tar-stream": "^3.1.7",
     "thingies": "^2.5.0",
-    "tr46": "^5.1.1",
+    "tr46": "^6.0.0",
     "uglify-js": "^3.19.3",
     "uglify-to-browserify": "^2.1.0",
     "url-encode-decode": "^1.0.0",
