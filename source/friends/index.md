@@ -67,6 +67,9 @@ _以下站点按照添加的时间顺序排列：_
 - [凡梦星尘](https://lisenhui.cn)
   - 再平凡的人也有属于他的梦想 ✨
 
+- [星河避难所](https://hejunjie.life)
+  - PHP 工程师 / 全栈开发
+
 - [ROY.WANG](https://roy.wang)
   - 知善恶，懂因果，明是非，擢己身。
 
