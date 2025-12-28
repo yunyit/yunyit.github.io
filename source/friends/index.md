@@ -52,14 +52,23 @@ _以下站点按照添加的时间顺序排列：_
 - [Fengyun Hou](https://fengyun-hou.github.io)
   - Cognitive Neuroscience of Language
 
+- [椒盐豆豉](https://blog.douchi.space/#gsc.tab=0)
+  - 喜欢就买 不行就分 多喝热水 重启电脑
+
 - [Amos](https://amooos.com/)
   - 无限进步.✍️
+
+- [Gemsly Hoshino](https://blog.harrverse.com)
+  - 誰染花香入境
 
 - [Bing's Blog](https://imcbc.cn/)
   - 自由 分享 合作
 
 - [凡梦星尘](https://lisenhui.cn)
   - 再平凡的人也有属于他的梦想 ✨
+
+- [ROY.WANG](https://roy.wang)
+  - 知善恶，懂因果，明是非，擢己身。
 
 - [Cynosura](https://cynosura.one)
   - Trying to light up the dark.
@@ -120,9 +129,6 @@ _以下站点按照添加的时间顺序排列：_
 
 - [Dejavu's Blog](https://blog.dejavu.moe/)
   - Not for success, just for growing.
-
-- [椒盐豆豉](https://blog.douchi.space/#gsc.tab=0)
-  - 喜欢就买 不行就分 多喝热水 重启电脑
 
 - [雅余](https://yayu.net/)
   - 茶余饭后，闲情雅致
