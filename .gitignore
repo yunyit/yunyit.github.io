@@ -11,4 +11,3 @@ package-lock.json
 *.lock
 hexo-deploy-key
 hexo-deploy-key.pub
-umami/
