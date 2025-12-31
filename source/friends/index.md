@@ -118,9 +118,6 @@ _以下站点按照添加的时间顺序排列：_
 - [lozhu's blog](https://lozhu.happy365.day/)
   - 一切皆是因为好玩～
 
-- [樽前小筑](https://yefoenix.ws/)
-  - 酒类写作及博主的一些折腾
-
 - [sangmingming](https://isming.me)
   - 一个码农的个人的技术和日常记录
 
@@ -167,6 +164,9 @@ _以下站点按照添加的时间顺序排列：_
 
 - [绒绒洛](https://qwq.dog) `522`
   - 俯いたまま大人になって
+
+- [樽前小筑](https://yefoenix.ws/) `530`
+  - 酒类写作及博主的一些折腾
 
 </details>
 
