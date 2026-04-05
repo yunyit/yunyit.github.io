@@ -148,6 +148,12 @@ _以下站点按照添加的时间顺序排列：_
 - [朽丘秋雨](https://koxiuqiu.cn)
   - 和喜欢的人在夏日夜晚牵手慢步
 
+- [橙树志 | citydatum](https://citydatum.cn)
+  - 过已过，来未来，唯当下
+
+- [JerryGao's Blog](https://www.jerrygao.cn)
+  - 爱折腾的安全小白
+
 ---
 
 <details>
