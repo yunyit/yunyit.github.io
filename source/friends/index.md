@@ -148,6 +148,9 @@ _以下站点按照添加的时间顺序排列：_
 - [JerryGao's Blog](https://www.jerrygao.cn)
   - 爱折腾的安全小白
 
+- [liangbm3's blog](https://liangbm3.top/)
+  - 总有人间一两风，填我十万八千梦！
+
 ---
 
 <details>
@@ -164,9 +167,6 @@ _以下站点按照添加的时间顺序排列：_
 
 - [樽前小筑](https://yefoenix.ws/) `530`
   - 酒类写作及博主的一些折腾
-
-- [liangbm3's blog](https://liangbm3.top/) `T/O`
-  - 总有人间一两风，填我十万八千梦！
 
 - [lozhu's blog](https://lozhu.happy365.day/) `DNS`
   - 一切皆是因为好玩～
