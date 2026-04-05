@@ -115,9 +115,6 @@ _以下站点按照添加的时间顺序排列：_
 - [野生糖喵](https://candinya.com/)
   - 好伙伴们在哪里~
 
-- [lozhu's blog](https://lozhu.happy365.day/)
-  - 一切皆是因为好玩～
-
 - [sangmingming](https://isming.me)
   - 一个码农的个人的技术和日常记录
 
@@ -170,6 +167,9 @@ _以下站点按照添加的时间顺序排列：_
 
 - [liangbm3's blog](https://liangbm3.top/) `T/O`
   - 总有人间一两风，填我十万八千梦！
+
+- [lozhu's blog](https://lozhu.happy365.day/) `DNS`
+  - 一切皆是因为好玩～
 
 </details>
 
