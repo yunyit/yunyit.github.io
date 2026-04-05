@@ -4,7 +4,7 @@ alias:
 - /zh/links/
 - /en/links/
 date: '2023-11-07 23:31:49'
-updated: '2024-01-24 23:31:49'
+updated: '2026-04-06 12:31:49'
 ---
 
 > 在这个独立博客式微的时代，友情链接的意义是什么？
@@ -88,9 +88,6 @@ _以下站点按照添加的时间顺序排列：_
 - [新世界的大门](https://blog.xinshijiededa.men)
   - 悟已往之不諫，知來者之可追
 
-- [lvbibir's Blog](https://www.lvbibir.cn)
-  - life is a fucking movie
-
 - [nopdan's blog](https://nopdan.com/)
   - 但知行好事，莫要问前程
 
@@ -114,9 +111,6 @@ _以下站点按照添加的时间顺序排列：_
 
 - [野生糖喵](https://candinya.com/)
   - 好伙伴们在哪里~
-
-- [lozhu's blog](https://lozhu.happy365.day/)
-  - 一切皆是因为好玩～
 
 - [sangmingming](https://isming.me)
   - 一个码农的个人的技术和日常记录
@@ -142,9 +136,6 @@ _以下站点按照添加的时间顺序排列：_
 - [逍遥乡 | Allen's World](https://blog.allenwu233.com/zh)
   - 天地与我并生，而万物与我为一。
 
-- [liangbm3's blog](https://liangbm3.top/)
-  - 总有人间一两风，填我十万八千梦！
-
 - [朽丘秋雨](https://koxiuqiu.cn)
   - 和喜欢的人在夏日夜晚牵手慢步
 
@@ -162,9 +153,6 @@ _以下站点按照添加的时间顺序排列：_
 - [Barney’s Blog](https://hugo.bnblogs.cc/) `T/O`
   - All the truth is simple
 
-- [L1nSn0w's Blog](https://blog.linsnow.cn) `T/O`
-  - 无限进步.✍️
-
 - [Wsine's Blog](https://blog.wsine.top) `405`
   - Welcome to my blog! Here are something about life and productivity. Hope you enjoy~
 
@@ -173,6 +161,12 @@ _以下站点按照添加的时间顺序排列：_
 
 - [樽前小筑](https://yefoenix.ws/) `530`
   - 酒类写作及博主的一些折腾
+
+- [liangbm3's blog](https://liangbm3.top/) `T/O`
+  - 总有人间一两风，填我十万八千梦！
+
+- [lozhu's blog](https://lozhu.happy365.day/) `DNS`
+  - 一切皆是因为好玩～
 
 </details>
 
